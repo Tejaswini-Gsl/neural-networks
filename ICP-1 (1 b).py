@@ -1,5 +1,5 @@
-num1 = int(input("Enter number 1")) 
-num2 = int(input("Enter number 2")) 
+num1 = int(input("Enter number 1:")) 
+num2 = int(input("Enter number 2:")) 
 print("input numbers:",num1,num2)
 print("sum of num:",num1+num2)
 print("subtration of num:",num1-num2)

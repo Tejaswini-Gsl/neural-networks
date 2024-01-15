@@ -8,7 +8,7 @@ elif user_input>=70 and user_input<=79:
     print("Grade C")
 elif user_input>=60 and user_input<=69:
     print("Grade D")
-elif user_input<60:
+elif user_input>=0 and user_input<59:
     print("Grade F")
 else:
     print("invalid input")
