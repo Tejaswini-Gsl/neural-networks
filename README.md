@@ -1,4 +1,5 @@
-﻿# neural-networks
+﻿# ICP 1
+ 
  
  1. input() -  stores the user's input as a string in the variable.
  2. list() - converts the user's input string into a list
