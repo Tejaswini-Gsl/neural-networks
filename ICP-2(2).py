@@ -22,3 +22,4 @@ with open('output.txt','w') as out:
     out.write('\nWord_Count:\n')
     for word, count in word_counts.items():
         out.write(f'{word}: {count}\n')
+        

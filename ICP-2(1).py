@@ -4,3 +4,4 @@ def fullname(a,b):
 a= input("Enter first name:")
 b= input("enter last name:")
 fullname(a,b)
+
