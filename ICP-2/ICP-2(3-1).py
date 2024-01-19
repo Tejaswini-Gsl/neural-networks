@@ -4,7 +4,7 @@ centimeters = []
 num = int(input("How many heights to input: "))
 
 for i in range(num):
-    inch = float(input("Enter height in inches: "))
+    inch = int(input("Enter height in inches: "))
     inches.append(inch)
 
 for i in inches:
