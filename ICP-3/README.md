@@ -15,5 +15,7 @@
  12. np.argmax(arr, axis=1): Returns index of maximum value in each row (axis=1)
 
 
-[link](https://github.com/Tejaswini-Gsl/neural-networks/assets/60133477/59acbaed-0666-4c0e-91ff-09d080917f85)
+https://github.com/Tejaswini-Gsl/neural-networks/assets/60133477/0de6a5ab-0cf0-4370-aaf7-4dcabbd9dcd9
+
+
 
