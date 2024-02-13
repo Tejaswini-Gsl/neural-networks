@@ -31,3 +31,9 @@ Compares model MSE to baseline MSE to evaluate model performance
 
 
 
+
+https://github.com/Tejaswini-Gsl/neural-networks/assets/60133477/83dd94cf-7044-43d6-be25-fbff6cafc513
+
+
+
+
