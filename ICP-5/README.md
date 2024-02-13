@@ -10,3 +10,9 @@
 7. model.predict(X_test) -	Makes predictions on the test data using the trained model.
 8. accuracy_score(y_test, nb_pred) - Calculates the accuracy of the predictions.
 9. classification_report(y_test, nb_pred) -	Prints a classification report, which includes precision, recall, F1-score, and support for each class.
+
+
+
+
+https://github.com/Tejaswini-Gsl/neural-networks/assets/60133477/4ed04ab1-3b92-47b0-aa35-8ec58a77e4a4
+
