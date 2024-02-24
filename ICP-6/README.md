@@ -12,6 +12,7 @@ video link: https://drive.google.com/drive/u/0/folders/1BH4jtOKo4usih3-rt07A5-m6
  output_dim- 20 neurons 
  activation='relu'-  Rectified Linear Unit (ReLU), an activation function used in neural networks
  activation='sigmoid'- Sigmoid Activation Function is generally used when we have binary classification problem or regression where the output is 0 or 1
+ activation= 'tanh'- Hyperbolic tangent as an activation function  [input values between -1 and 1]
 5. model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['acc']) - Compiles
 binary cross entropy loss-  as it is suitable for classification tasks. 
 Adam optimizer -  commonly used because it adaptively adjusts the learning rate during training. 
@@ -22,7 +23,9 @@ initial_epoch- 0 means that we start from the beginning
 7.  StandardScaler()- 
 8. fit_transform(X_train) - fits the scaler to the training data (X_train) and then transforms it. This means it calculates the mean and standard deviation of each feature in the training set and then standardizes the training data 
 9. transform(X_test) -transform the test data (X_test) using the mean and standard deviation calculated from the training data.
-10. 
+10. np.prod() - computes the product of the dimensions of a single image 
+ex: (28x28 pixels), resulting in 784
+11. to_categorical() - convert the integer labels (0 to 9) into one-hot encoded vectors. One-hot encoding is a representation of categorical variables as binary vectors, where each integer value is represented as 1 or 0 
 
 Why increase the dense layers?
 increases the depth of the model, allowing it to potentially learn more complex relationships in the data.
