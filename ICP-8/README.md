@@ -1,5 +1,5 @@
 # ICP 8
  
  
-video link: https://drive.google.com/drive/u/1/folders/1BH4jtOKo4usih3-rt07A5-m6BnMtze6A
+video link: https://drive.google.com/file/d/1s1pprqu1FLJ_r3m0yKQ_s1vbtGMXNy91/view?usp=sharing
 
